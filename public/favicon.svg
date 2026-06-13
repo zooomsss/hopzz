@@ -1,3 +1,13 @@
-<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="180" height="180" rx="36" fill="#FF3C00"/>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#0a0a0a" rx="12"/>
+  <path d="M8,32 Q32,14 56,32" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M8,32 Q32,50 56,32" stroke="white" stroke-width="2" fill="none"/>
+  <circle cx="32" cy="32" r="10" fill="none" stroke="#6E54FF" stroke-width="2"/>
+  <circle cx="32" cy="32" r="5" fill="#6E54FF"/>
+  <circle cx="27" cy="27" r="2.5" fill="white" opacity="0.9"/>
+  <line x1="18" y1="22" x2="16" y2="16" stroke="white" stroke-width="1.2"/>
+  <line x1="25" y1="18" x2="24" y2="12" stroke="white" stroke-width="1.2"/>
+  <line x1="32" y1="16" x2="32" y2="10" stroke="white" stroke-width="1.2"/>
+  <line x1="39" y1="18" x2="40" y2="12" stroke="white" stroke-width="1.2"/>
+  <line x1="46" y1="22" x2="48" y2="16" stroke="white" stroke-width="1.2"/>
 </svg>
