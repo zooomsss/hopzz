@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useLocation } from "wouter";
 import { motion, AnimatePresence } from "framer-motion";
-const heroImage = "https://placehold.co/1920x1080/0a0a0a/6E54FF?text=HOPZ";
+const heroImage = "/HJZgAQGXAAIwDp1_1781355972231.jfif";
 
 const JAPANESE_CHARS = "ホップズ幻想デジタル魂夢幻界転送存在虚無光闇";
 
