@@ -262,18 +262,18 @@ export default function SplashPage() {
           transition={{ duration: 0.8, delay: 1 }}
         >
           <div className="flex flex-col items-center gap-1">
-            <span className="font-mono text-[10px] text-white/30 tracking-widest">SUPPLY</span>
-            <span className="font-mono text-white/70 text-sm tracking-widest">3,333</span>
+            <span className="font-mono text-[10px] text-white/30 tracking-widest">zoooms</span>
+            <span className="font-mono text-white/70 text-sm tracking-widest">duar</span>
           </div>
           <span className="w-[1px] h-8 bg-[#6E54FF]/30" />
           <div className="flex flex-col items-center gap-1">
             <span className="font-mono text-[10px] text-white/30 tracking-widest">CHAIN</span>
-            <span className="font-mono text-white/70 text-sm tracking-widest">ETH</span>
+            <span className="font-mono text-white/70 text-sm tracking-widest">monad</span>
           </div>
           <span className="w-[1px] h-8 bg-[#6E54FF]/30" />
           <div className="flex flex-col items-center gap-1">
-            <span className="font-mono text-[10px] text-white/30 tracking-widest">MINT</span>
-            <span className="font-mono text-[#6E54FF] text-sm tracking-widest">LIVE</span>
+            <span className="font-mono text-[10px] text-white/30 tracking-widest">tes</span>
+            <span className="font-mono text-[#6E54FF] text-sm tracking-widest">doang</span>
           </div>
         </motion.div>
 
