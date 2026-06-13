@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "wouter";
-const eye1 = "https://placehold.co/400x400/0a0a0a/6E54FF?text=HOPZ+%231";
-const eye2 = "https://placehold.co/400x400/0a0a0a/6E54FF?text=HOPZ+%232";
-const eye3 = "https://placehold.co/400x400/0a0a0a/6E54FF?text=HOPZ+%233";
-const eye4 = "https://placehold.co/400x400/0a0a0a/6E54FF?text=HOPZ+%234";
-const eye5 = "https://placehold.co/400x400/0a0a0a/6E54FF?text=HOPZ+%235";
+const eye1 = "/2ae7f8c83a39b07b98af621d7d10a235.jpg";
+const eye2 = "/4667a51274dabb41dbcc2ab3db3ba6de.jpg";
+const eye3 = "/fc5b18481973e1979078359605e9506f.jpg";
+const eye4 = "/272723742c11fba2d41a831dee177fbc.jpg";
+const eye5 = "/ae5781de1d00a09072b464acb5691625.jpg";
 // ─── NFT Data ────────────────────────────────────────────────────────────────
 type Rarity = "COMMON" | "UNCOMMON" | "RARE" | "LEGENDARY";
 
