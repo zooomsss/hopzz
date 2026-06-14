@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { motion, useMotionValue, useAnimationFrame, AnimatePresence } from "framer-motion";
 import { Link } from "wouter";
-const menuBg = "/f6ea06f59315719b75a9aa3c461f45ef.jpg";
+const menuBg = "/5b711ef79785d61e3fb0f5a05de656be.webp";
 const eye1 = "/2ae7f8c83a39b07b98af621d7d10a235.jpg";
 const eye2 = "/4667a51274dabb41dbcc2ab3db3ba6de.jpg";
 const eye3 = "/fc5b18481973e1979078359605e9506f.jpg";
