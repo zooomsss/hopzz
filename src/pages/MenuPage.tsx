@@ -2,11 +2,11 @@ import { useState, useRef, useEffect } from "react";
 import { motion, useMotionValue, useAnimationFrame, AnimatePresence } from "framer-motion";
 import { Link } from "wouter";
 const menuBg = "/5b711ef79785d61e3fb0f5a05de656be.webp";
-const eye1 = "/2ae7f8c83a39b07b98af621d7d10a235.jpg";
-const eye2 = "/4667a51274dabb41dbcc2ab3db3ba6de.jpg";
-const eye3 = "/fc5b18481973e1979078359605e9506f.jpg";
-const eye4 = "/272723742c11fba2d41a831dee177fbc.jpg";
-const eye5 = "/ae5781de1d00a09072b464acb5691625.jpg";
+const eye1 = "/272723742c11fba2d41a831dee177fbc.webp";
+const eye2 = "/2ae7f8c83a39b07b98af621d7d10a235.webp";
+const eye3 = "/4667a51274dabb41dbcc2ab3db3ba6de.webp";
+const eye4 = "/ae5781de1d00a09072b464acb5691625.webp";
+const eye5 = "/fc5b18481973e1979078359605e9506f.webp";
 
 // ─── Constants ──────────────────────────────────────────────────────────────
 const MON_W = 190;
