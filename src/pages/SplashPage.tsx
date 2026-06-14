@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useLocation } from "wouter";
 import { motion, AnimatePresence } from "framer-motion";
-const heroImage = "/5b711ef79785d61e3fb0f5a05de656be.gif";
+const heroImage = "/5b711ef79785d61e3fb0f5a05de656be.webp";
 
 const JAPANESE_CHARS = "ホップズ幻想デジタル魂夢幻界転送存在虚無光闇";
 
